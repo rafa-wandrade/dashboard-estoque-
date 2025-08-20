@@ -1,0 +1,5 @@
+My GitHub Practice Notes
+
+- Learned about repositories
+- Learned about commits
+- Added a new file!
