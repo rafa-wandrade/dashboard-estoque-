@@ -3,3 +3,4 @@ My GitHub Practice Notes
 - Learned about repositories
 - Learned about commits
 - Added a new file!
+- Practiced editing a file on GitHub
